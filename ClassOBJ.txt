@@ -1,0 +1,5 @@
+1. Create a class named Person, use the __init__() function to assign values for name and age:
+
+
+2 Create clock class that containt Hr min sec. Accept the value and display it.
+
